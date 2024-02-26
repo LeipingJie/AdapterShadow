@@ -3,7 +3,7 @@
 AdapterShadow: Adapting Segment Anything Model for Shadow Detection
 
 You can find our code and results at:
-[Code & Results]([https://drive.google.com/drive/folders/1fywxujVdOaCihB2xD9NC5gb9Pvl0lZyI?usp=sharing](https://drive.google.com/drive/folders/1vpETQm5TMFkC7frHi8y83q5hxxq4vY3M?usp=sharing))
+[Code & Results](https://drive.google.com/drive/folders/1vpETQm5TMFkC7frHi8y83q5hxxq4vY3M?usp=sharing)
 
 If you find this project useful for your research, please cite:
 ```
