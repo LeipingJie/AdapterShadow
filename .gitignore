@@ -1,0 +1,5 @@
+*.ckpt
+*.pth
+*.tmp
+*.log
+__pycache__
