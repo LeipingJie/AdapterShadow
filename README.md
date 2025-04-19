@@ -1,5 +1,5 @@
 # AdapterShadow
-Source code for our paper ["AdapterShadow: Adapting Segment Anything Model for Shadow Detection"](https://arxiv.org/abs/2311.08891). 
+Source code for our paper ["AdapterShadow: Adapting Segment Anything Model for Shadow Detection"](https://arxiv.org/abs/2311.08891). A new version of our paper was accepted by Expert Systems with Applications (https://www.sciencedirect.com/science/article/pii/S0957417425004312).
 
 # How to evaluate ?
 ```
@@ -23,12 +23,12 @@ You can find our code, results, models at:
 
 If you find this project useful for your research, please cite:
 ```
-@misc{jie2023adaptershadow,
-      title={AdapterShadow: Adapting Segment Anything Model for Shadow Detection}, 
-      author={Leiping Jie and Hui Zhang},
-      year={2023},
-      eprint={2311.08891},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{jie2025shadowadapter,
+  title={ShadowAdapter: Adapting Segment Anything Model with Auto-Prompt for shadow detection},
+  author={Jie, Leiping and Zhang, Hui},
+  journal={Expert Systems with Applications},
+  pages={126809},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
