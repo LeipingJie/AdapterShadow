@@ -15,8 +15,11 @@ https://github.com/LeipingJie/SAMShadow
 (2) for SBU_New, please refer to:
 https://github.com/hanyangclarence/SILT
 
-You can find our code, results, models at:
+You can find our code, results at:
 [Code & Results](https://drive.google.com/drive/folders/1vpETQm5TMFkC7frHi8y83q5hxxq4vY3M?usp=sharing)
+Pretrained modes at: 
+link: https://pan.baidu.com/s/11F5J1Qk8KDZKrAJ91409ng?pwd=27v2
+password: 27v2
 
 ## Visual Comparison
 <img src='assets/predictions.png'/>
